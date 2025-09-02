@@ -21,7 +21,7 @@ php artisan server
 ### Frontend (Nest Js)
 npm run dev
 
-###Docker 
+### Docker 
 docker run -p 3000:3000 tatiana20 / laravel_hoteles-frontend
 docker run -p 3000:3000 tatiana20 / laravel_hoteles- backend
    
