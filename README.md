@@ -8,7 +8,7 @@ Aplicación para gestión hotelera con backend en Laravel (PHP) y frontend en Ne
 ## Tecnologías utilizadas
 
 - **Backend:** Laravel (PHP 8+)
-- **Frontend:** NestJS (Node.js)
+- **Frontend:** React + Ts
 - **Base de datos:** PostgreSQL
 
 ---
@@ -18,7 +18,7 @@ Aplicación para gestión hotelera con backend en Laravel (PHP) y frontend en Ne
 ### Backend (Laravel)
 php artisan server 
 
-### Frontend (Nest Js)
+### Frontend (React)
 npm run dev
 
 ### Docker 
